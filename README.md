@@ -7,7 +7,7 @@ The Sedona Insurance Web Application was built to streamline General Liability a
 https://github.com/user-attachments/assets/392d9b43-4f39-435b-9210-3428886d53ba
 
 ## Technology used
-  * React JS: Front-end library used for building a responsive and dynamic user interface.
+ * React JS: Front-end library used for building a responsive and dynamic user interface.
   * Django: Back-end web framework used to handle business logic, data models, and server-side processing.
   * REST API: Used to enable seamless communication between the front end and back end, supporting CRUD operations and integrations.
   * PostgreSQL: Relational database used for storing and managing structured insurance data securely and efficiently.
