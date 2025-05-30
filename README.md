@@ -3,7 +3,8 @@
 ### Objective
 The Sedona Insurance Web Application was built to streamline General Liability and Property Insurance operations for Thoma Bravo LLC. Covering the full insurance lifecycle—from policy issuance to claims—it integrates key workflows with a responsive, cross-platform user experience. Built using React JS, Django, and REST APIs, the system enhances operational efficiency and supports agents, underwriters, and administrators.
          
-# DEMO VIDEO FOR ADVANCED PLAYER DASHBOARD FOR AUCTION
+# DEMO VIDEO FOR Application:
+
 
 
 ## Technology used
@@ -25,7 +26,6 @@ The Sedona Insurance Web Application was built to streamline General Liability a
  * Cancellation: If a user chooses to cancel a policy before its expiry, the system calculates the earned premium based on the actual number of days the policy was active. The unused premium is then refunded accordingly, ensuring accurate pro-rata calculations.
  * Reinstatement: If the user decides to reinstate a previously canceled policy, the system recalculates the premium based on the remaining coverage period. The user is required to pay the adjusted premium for the reinstated duration, ensuring proper continuation of coverage.
  * This feature ensures financial accuracy, regulatory compliance, and user flexibility throughout the insurance lifecycle.
-![Screenshot from 2025-05-09 09-55-26](https://github.com/user-attachments/assets/4cd91201-c81c-447c-b0d8-9705283da547)
 
 ### (iii). Forms & Premium Calculation Feature:
  * The Forms Management feature in the Sedona Insurance Web Application is fully aligned with ISO (International Organization for Standardization) guidelines, ensuring compliance with industry-standard forms for General Liability and Property Insurance. Each policy form is dynamically selected and managed based on regulatory requirements, policy type, and coverage.
