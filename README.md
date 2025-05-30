@@ -1,7 +1,7 @@
 # SEDONA INSURANCE WEB APPLICATION
 ## 1. Overview
 ### Objective
-         The Sedona Insurance Web Application was built to streamline General Liability and Property Insurance operations for Thoma Bravo LLC. Covering the full insurance lifecycle—from policy issuance to claims—it integrates key workflows with a responsive, cross-platform user experience. Built using React JS, Django, and REST APIs, the system enhances operational efficiency and supports agents, underwriters, and administrators.
+         #### The Sedona Insurance Web Application was built to streamline General Liability and Property Insurance operations for Thoma Bravo LLC. Covering the full insurance lifecycle—from policy issuance to claims—it integrates key workflows with a responsive, cross-platform user experience. Built using React JS, Django, and REST APIs, the system enhances operational efficiency and supports agents, underwriters, and administrators.
          
 # DEMO VIDEO FOR ADVANCED PLAYER DASHBOARD FOR AUCTION
 https://github.com/user-attachments/assets/392d9b43-4f39-435b-9210-3428886d53ba
