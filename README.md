@@ -5,11 +5,7 @@ The Sedona Insurance Web Application was built to streamline General Liability a
          
 # DEMO VIDEO FOR Application:
 
-
-
 https://github.com/user-attachments/assets/ce79fc80-27a3-4b10-9308-b5d3263207ea
-
-
 
 ## Technology used
  * React JS: Front-end library used for building a responsive and dynamic user interface.
